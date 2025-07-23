@@ -1,16 +1,16 @@
-## Hi there 👋
+Hey there! 👋 I'm Hariharan 🚀
+Welcome to my GitHub profile! Check out my work and feel free to collaborate! 😎
 
-<!--
-**KarthiK-0522/KarthiK-0522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 About Me
+💻 Interests: Passionate about coding, AI, and problem-solving. I enjoy exploring new technologies and building innovative solutions.
 
-Here are some ideas to get you started:
+🌱 Currently Learning: Full-Stack Web Development & DSA with Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Collaborating On: Open to working on AI/ML, web development, and innovative projects. Let’s build something amazing together!
+
+📫 How to Reach Me:
+LinkedIn: (https://www.linkedin.com/in/karthik-narlakanti/)
+
+Email: karthiknarlakanti03@gmail.com
+
+😄 Pronouns: He/Him
